@@ -1,7 +1,6 @@
 dist
 doc
 pic
-.husky
 .DS_Store*
 
 # Logs
